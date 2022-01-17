@@ -1,0 +1,22 @@
+{
+  "name": "w11-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mytestlib.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalvadorLimones/w11-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SalvadorLimones/w11-practice/issues"
+  },
+  "homepage": "https://github.com/SalvadorLimones/w11-practice#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
